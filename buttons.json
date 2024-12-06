@@ -1,5 +1,5 @@
 [
-    { "label": "test1", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@refs/heads/main/test.js" },
-    { "label": "Fill Energy", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@main/test.js" },
-    { "label": "Invincibility Hack", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@main/test.js" }
+    { "label": "BattleButton1", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@refs/heads/main/test.js" },
+    { "label": "BattleButton2", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@main/test.js" },
+    { "label": "BattleButton3", "scriptUrl": "https://cdn.jsdelivr.net/gh/CidCaribou/Prodigy-menu@main/test.js" }
 ]
