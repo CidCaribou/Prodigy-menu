@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Fetch Link 1",
+        "scriptUrl": "https://example.com/script1.js"
+    },
+    {
+        "label": "Fetch Link 2",
+        "scriptUrl": "https://example.com/script2.js"
+    },
+    {
+        "label": "Fetch Link 3",
+        "scriptUrl": "https://example.com/script3.js"
+    },
+    {
+        "label": "Player Button 1",
+        "scriptUrl": "https://example.com/playerScript1.js"
+    },
+    {
+        "label": "Player Button 2",
+        "scriptUrl": "https://example.com/playerScript2.js"
+    },
+    {
+        "label": "Player Button 3",
+        "scriptUrl": "https://example.com/playerScript3.js"
+    }
+]
