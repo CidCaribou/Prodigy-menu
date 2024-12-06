@@ -1,4 +1,4 @@
-javascript:(function() {
+(function() {
 alert("You can get banned use at your own risk.\n\nMenu By Cid\n\nCheats Made by rxzyx on github")  
   const menu = document.createElement('div');
     menu.style.position = 'fixed';
