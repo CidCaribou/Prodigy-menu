@@ -1,7 +1,7 @@
 [
     {
         "label": "Fetch Link 1",
-        "scriptUrl": "https://example.com/script1.js"
+        "scriptUrl": "https://raw.githubusercontent.com/CidCaribou/Prodigy-menu/refs/heads/main/test.js"
     },
     {
         "label": "Fetch Link 2",
