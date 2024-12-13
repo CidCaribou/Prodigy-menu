@@ -1,5 +1,5 @@
 (function() {
-alert("You can get banned use at your own risk.\n\nMenu By Cid\n\nCheats Made by rxzyx on github")  
+alert("You can get banned use at your own risk.\n\nMenu By Cid\n\nCheats Made by rxzyx on github\n\nRequires Spoofer V1")  
   const menu = document.createElement('div');
     menu.style.position = 'fixed';
     menu.style.top = '20px';
