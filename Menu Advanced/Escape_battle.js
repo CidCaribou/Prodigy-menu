@@ -1,5 +1,4 @@
 (async () => {
-    document.getElementById('escape').onclick = async function() {
   // Inject SweetAlert2
   const swalScript = document.createElement('script');
   swalScript.src = 'https://cdn.jsdelivr.net/npm/sweetalert2@11';
@@ -39,4 +38,5 @@
     success('Successfully escaped battle!');
   } catch (e) {
     error('Unable to escape battle.');
-  }}})();
+  }
+})();
