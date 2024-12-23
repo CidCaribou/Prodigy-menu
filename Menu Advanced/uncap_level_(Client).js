@@ -1,5 +1,4 @@
 (async function() {
-    document.getElementById('uncapLevel').onclick = function() {
     // Check if SweetAlert library is loaded; if not, load it
     if (typeof Swal === 'undefined') {
         const script = document.createElement('script');
@@ -42,4 +41,4 @@
             });
         }
     }
-}})();
+})();
